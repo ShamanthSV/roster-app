@@ -1,0 +1,68 @@
+.table-header {
+  background-color: #005A70;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  height: 44px;
+}
+
+.table-header-disabled {
+  background-color: grey !important;
+  color: white !important;
+}
+
+.header-cell {
+  width: 208px;
+  height: 44px;
+  text-align: left;
+  padding: 8px;
+  cursor: pointer;
+  user-select: none;
+  font-size: 14px;
+  color: inherit;
+}
+
+.header-cell.disabled {
+  cursor: default;
+  color: white !important;
+  user-select: none;
+}
+
+.header-cell:focus {
+  outline: 2px solid white;
+}
+
+.checkbox-cell {
+  width: 36px;
+}
+
+.header-label {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+.sort-icons {
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+  margin-left: 6px;
+  line-height: 10px;
+}
+
+.arrow {
+  font-size: 12px;
+  transform: rotate(90deg); /* vertical < > */
+  user-select: none;
+}
+
+.arrow-active {
+  color: white;
+  font-size: medium;
+}
+
+.arrow-disabled {
+  color: #ccc;
+  font-size: medium;
+  opacity: 0.5;
+}

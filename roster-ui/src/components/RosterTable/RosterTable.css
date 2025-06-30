@@ -1,0 +1,62 @@
+
+.roster-table {
+  width: 1024px;
+  border-collapse: collapse;
+  font-family: 'Roboto', sans-serif;
+  margin: 0 auto;
+}
+
+.cell {
+  width: 208px;
+  padding-left: 10px;
+  height: 44px;
+  text-align: left;
+  font-size: 14px;
+  color: #333;
+}
+
+.checkbox-cell {
+  width: 36px;
+}
+
+tr.even {
+  background-color: #ffffff;
+}
+
+tr.odd {
+  background-color: #E5E5E5;
+}
+
+tr.selected-row {
+  background-color: #EBF8FF;
+  border-top: 1px solid #0064D9;
+  border-bottom: 1px solid #0064D9;
+}
+
+/* NEW - Empty state row */
+.empty-row td {
+  text-align: center;
+  padding: 32px;
+}
+
+.empty-message {
+  font-size: 16px;
+  font-weight: 500;
+  color: #333;
+  line-height: 1.5;
+}
+
+.sub-message {
+  font-size: 14px;
+  color: #777;
+  margin-top: 4px;
+}
+
+/* Disable header when no results */
+.table-disabled thead {
+  background-color: #999 !important;
+}
+
+.table-disabled thead th {
+  color: white !important;
+}

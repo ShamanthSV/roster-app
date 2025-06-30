@@ -1,0 +1,64 @@
+.roster-footer {
+  width: 1024px;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  margin: 0 auto 0;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  padding: 0 8px;
+}
+
+.left {
+  font-size: 14px;
+}
+
+.middle {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-grow: 1;
+  margin-left: 24px;
+}
+
+.filter-option {
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.right {
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.status-message {
+  font-style: italic;
+  color: #979797;
+}
+
+.save-button {
+  width: 80px;
+  height: 24px;
+  border-radius: 40px !important;
+  font-size: 12px !important;
+  padding: 0;
+  text-transform: none;
+}
+
+.save-button.disabled {
+  background-color: #a7a7a7 !important;
+  color: white !important;
+  cursor: not-allowed;
+}
+
+.save-button.enabled {
+  background-color: #005A70 !important;
+  color: white !important;
+}

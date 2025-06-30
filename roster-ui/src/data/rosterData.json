@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "email": "alice.johnson@example.com",
+    "username": "alicej",
+    "role": "Active Students"
+  },
+  {
+    "id": 2,
+    "firstName": "Bob",
+    "lastName": "Smith",
+    "email": "bob.smith@example.com",
+    "username": "bobsmith",
+    "role": "Teaching Assistants"
+  },
+  {
+    "id": 3,
+    "firstName": "Charlie",
+    "lastName": "Brown",
+    "email": "charlie.brown@example.com",
+    "username": "cbrown",
+    "role": "Inactive Students"
+  },
+  {
+    "id": 4,
+    "firstName": "Diana",
+    "lastName": "Moore",
+    "email": "diana.moore@example.com",
+    "username": "dmoore",
+    "role": "Section Instructor"
+  },
+  {
+    "id": 5,
+    "firstName": "Eve",
+    "lastName": "Williams",
+    "email": "eve.williams@example.com",
+    "username": "evew",
+    "role": "All Members"
+  },
+  {
+    "id": 6,
+    "firstName": "Frank",
+    "lastName": "Adams",
+    "email": "frank.adams@example.com",
+    "username": "franka",
+    "role": "Active Students"
+  },
+  {
+    "id": 7,
+    "firstName": "Grace",
+    "lastName": "Hall",
+    "email": "grace.hall@example.com",
+    "username": "graceh",
+    "role": "Teaching Assistants"
+  },
+  {
+    "id": 8,
+    "firstName": "Hank",
+    "lastName": "Miller",
+    "email": "hank.miller@example.com",
+    "username": "hmiller",
+    "role": "Inactive Students"
+  },
+  {
+    "id": 9,
+    "firstName": "Ivy",
+    "lastName": "Carter",
+    "email": "ivy.carter@example.com",
+    "username": "ivycar",
+    "role": "Section Instructor"
+  },
+  {
+    "id": 10,
+    "firstName": "Jack",
+    "lastName": "Davis",
+    "email": "jack.davis@example.com",
+    "username": "jackd",
+    "role": "All Members"
+  },
+  {
+    "id": 11,
+    "firstName": "Karen",
+    "lastName": "White",
+    "email": "karen.white@example.com",
+    "username": "kwhite",
+    "role": "Active Students"
+  },
+  {
+    "id": 12,
+    "firstName": "Leo",
+    "lastName": "Hughes",
+    "email": "leo.hughes@example.com",
+    "username": "leoh",
+    "role": "Teaching Assistants"
+  },
+  {
+    "id": 13,
+    "firstName": "Mona",
+    "lastName": "Gray",
+    "email": "mona.gray@example.com",
+    "username": "monag",
+    "role": "Inactive Students"
+  },
+  {
+    "id": 14,
+    "firstName": "Nate",
+    "lastName": "Bryant",
+    "email": "nate.bryant@example.com",
+    "username": "nateb",
+    "role": "Section Instructor"
+  },
+  {
+    "id": 15,
+    "firstName": "Olivia",
+    "lastName": "Scott",
+    "email": "olivia.scott@example.com",
+    "username": "olivias",
+    "role": "All Members"
+  }
+]
